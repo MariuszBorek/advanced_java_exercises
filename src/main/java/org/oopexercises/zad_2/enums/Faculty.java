@@ -1,0 +1,13 @@
+package org.oopexercises.zad_2.enums;
+
+public enum Faculty {
+    ARCHITECTURE,
+    MECHANICAL_ENGINEERING,
+    CIVIL_ENGINEERING,
+    CHEMICAL_ENGINEERING,
+    ELECTRICAL_ENGINEERING,
+    BIOMEDICAL_ENGINEERING,
+    MEDICINE,
+    LAW
+
+}
